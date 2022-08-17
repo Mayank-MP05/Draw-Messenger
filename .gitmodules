@@ -1,0 +1,6 @@
+[submodule "Draw-Messenger-v2-Frontend"]
+	path = client-draw
+	url = https://github.com/Mayank-MP05/Draw-Messenger-v2-Frontend.git
+[submodule "Draw-Messenger-v2-Backend"]
+	path = server-draw
+	url = https://github.com/Mayank-MP05/Draw-Messenger-v2-Backend.git
